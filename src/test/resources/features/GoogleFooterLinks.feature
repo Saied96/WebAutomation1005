@@ -8,11 +8,5 @@ Scenario: Privacy Link test
 When I click on the Privacy link
 Then I see the Privacy page
  
-Scenario: Terms Link test
-When I click on the Terms link
-Then I see the Terms page
- 
-Scenario: Settings Link test
-When I click on the Settings link
-Then I see the Settings page
+
  
